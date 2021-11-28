@@ -1,0 +1,4 @@
+geekshop/db.sqlite3
+.idea/
+geekshop/geekshop/__pycache__/
+geekshop/mainapp/__pycache__/
